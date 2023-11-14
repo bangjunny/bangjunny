@@ -43,7 +43,7 @@
         </div></br><br>
     <h2>📚 Notion 📚</h2>
     <div style="display:flex; flex-direction:column; align-items:flex-start;">
-        <a href="[https://www.notion.so/033f60bd851c4bdfb41e39953d5bfc6a?pvs=4]">
+        <a href="https://www.notion.so/033f60bd851c4bdfb41e39953d5bfc6a?pvs=4">
             <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"> 
         </a>
     </div>
