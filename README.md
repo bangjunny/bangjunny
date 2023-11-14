@@ -31,7 +31,7 @@
             <img src="https://img.shields.io/badge/naver cloud platform-03C75A?style=for-the-badge&logo=naver&logoColor=white">
         </div><br/>
         <!-- Tools -->
-        <p><strong>🔨 Tools 🔨</strong></p>
+        <p><strong>⚒️ Tools ⚒️</strong></p>
         <div>
             <img src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white"> 
             <img src="https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white">
