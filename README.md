@@ -1,7 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Welcome+to+Bangjun's+GitHub!&fontSize=45)
 
 <div align="left">
-    ## 🔨 Once I've used 🔨
     <h3>📚 Tech Stack 📚</h3>
     <div style="display:flex; flex-direction:column; align-items:flex-start;">
         <!-- Backend -->
