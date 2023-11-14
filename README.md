@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&weight=100%&section=header&text=Welcome+to+Bangjun's+GitHub!&fontSize=45)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Welcome+to+Bangjun's+GitHub!&fontSize=45)
 
 <div align="center">
     <h2>📚 Tech Stack 📚</h2>
